@@ -3,7 +3,7 @@
 This module shows you how to use dgram stream to:
 
 - use [dgram-stream](http://github.com/jbenet/dgram-stream)
-- build [a module to be imported](index.js) with [duplex-transport](http://github.com/jbenet/node-duplex-transport)
+- build [a module to be imported](index.js) with [duplex-transform](http://github.com/jbenet/node-duplex-transform)
 - use your module in another app
 
 ## Do it!
