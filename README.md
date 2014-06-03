@@ -1,10 +1,15 @@
 # dgram-stream-example-chat
 
-This module shows you how to use dgram stream to:
+This module shows you how to:
 
 - use [dgram-stream](http://github.com/jbenet/dgram-stream)
 - build [a module to be imported](index.js) with [duplex-transform](http://github.com/jbenet/node-duplex-transform)
 - use your module in another app
+
+Browse the code:
+
+- [index.js](index.js)
+- [cli.js](cli.js)
 
 ## Do it!
 
