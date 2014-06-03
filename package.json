@@ -1,0 +1,23 @@
+{
+  "name": "dgram-stream-example-chat",
+  "version": "0.1.0",
+  "description": "dgram-stream example chat",
+  "main": "index.js",
+  "bin": {
+    "dgram-chat": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dgram-stream"
+  ],
+  "author": "Juan Benet <juan@benet.ai> (http://juan.benet.ai/)",
+  "license": "MIT",
+  "dependencies": {
+    "underscore": "~1.6.0",
+    "dgram-stream": "~0.2.0",
+    "duplex-transform": "~0.1.1",
+    "charm": "~0.2.0"
+  }
+}
