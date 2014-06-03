@@ -19,5 +19,13 @@
     "dgram-stream": "~0.2.0",
     "duplex-transform": "~0.1.1",
     "charm": "~0.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jbenet/dgram-stream-example-chat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jbenet/dgram-stream-example-chat/issues"
   }
 }
